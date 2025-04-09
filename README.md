@@ -11,9 +11,9 @@ I love collaborating on **Flutter-based projects** and am always open to learnin
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ## 📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/your-linkedin)  
-[Instagram](https://www.instagram.com/your-instagram)  
-[StackOverflow](https://stackoverflow.com/users/your-stackoverflow)
+[LinkedIn](https://www.linkedin.com/in/asad-waseem100)  
+[Instagram](https://www.instagram.com/asadwaseem100)  
+[StackOverflow](https://stackoverflow.com/users/17850464)
 
 ## 🎯 Fun Fact:
 I'm a **Lazy Coding Genius** and love solving real-world problems with code. I'm always looking for ways to make things more efficient and creative.
